@@ -156,7 +156,7 @@
 <value>Journal of the American College of Radiology : JACR</value></field>
 <field name="pages" type="string">
 <value>428-435.e3</value></field>
-<field name="external_article_id" type="string">
+<field name=“pubmedid” type="string">
 <value>21636058</value></field>
 
 </fields>
